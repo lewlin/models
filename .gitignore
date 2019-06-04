@@ -1,5 +1,5 @@
 # Ignore pascal dataset
-models/research/deeplab/datasets/pascal_voc_seg
+pascal_voc_seg
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
